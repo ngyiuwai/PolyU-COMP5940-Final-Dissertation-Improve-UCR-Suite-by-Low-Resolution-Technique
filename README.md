@@ -1,6 +1,6 @@
 ## Dissertation Topic: Improve UCR Suite by Lower Resolution Techniques
 
-*Please see here for previous work for dynamics time warping (DTW): https://github.com/ngyiuwai/PolyU-COMP5940-Final-Dissertation-Improve-UCR-Suite-by-Low-Resolution-Technique*
+*Please see here for previous work for dynamics time warping (DTW): https://github.com/ngyiuwai/PolyU-COMP5940-Dissertation-Improve-UCR-Suite*
 
 *In the final dissertation, I focus on accelerating computation of Euclidean distance only. It is because the lower bound of DTW (i.e. LB_Keogh) is a lower bound of Euclidean distance.*
 
